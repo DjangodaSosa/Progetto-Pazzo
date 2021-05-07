@@ -1,0 +1,6 @@
+Nome, record, numero aiuti
+Berto 6 0
+Paglia 7 2
+Ste 4 1
+John Doe 9 0
+
